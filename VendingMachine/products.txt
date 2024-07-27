@@ -1,0 +1,11 @@
+10
+Hans Freitag 2.00 8
+Balconi 3.80 2
+Finn Crip 2.40 1
+Kit Kat 0.20 5
+Pretzels 0.45 6
+Pepero 0.90 15
+Wonka 1.25 4
+Hershey Cookie 0.75 3
+Kettle Corn 0.35 1
+Welch's Shacks 0.65 10
